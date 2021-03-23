@@ -9,3 +9,5 @@ dependencies:
     github: luislavena/radix
 
 license: MIT
+
+crystal: ">= 0.35.0"
